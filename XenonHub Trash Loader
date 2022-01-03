@@ -1,0 +1,5 @@
+game.Players.LocalPlayer:Kick("กั่ยๆๆๆ XenonHub Cracked moment")
+
+wait(3)
+
+game:Shutdown()
